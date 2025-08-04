@@ -6,7 +6,9 @@ The SSPI to MSPI bridge is illustrated below for our sysCONFIG document:
 <img width="951" height="613" alt="image" src="https://github.com/user-attachments/assets/e4296707-f22a-4a28-98fc-3218f35b89f2" />
 
 To activate the SSPI to MSPI bridge you need to send the LSC_PROG_SPI command(0x3A 00 00 00) to open the bridge. For illustration see below:
-<img width="1143" height="552" alt="image" src="https://github.com/user-attachments/assets/04a3da45-c345-4580-b95a-8df12fc5f77a" />
+<img width="1191" height="551" alt="image" src="https://github.com/user-attachments/assets/794c7929-0bfa-43d5-8253-00bd2305a83a" />
+
+
 
 The example in this repository programs a bitstream image for Lattice Certus Pro NX Evaluation Board just to illustrate the SSPI to MSPI Bridge. It contains the following files:
 
