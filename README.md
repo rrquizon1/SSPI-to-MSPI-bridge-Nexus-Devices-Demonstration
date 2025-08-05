@@ -22,3 +22,5 @@ The SSPI to MSPI Bridge is a simple but useful feature that makes it easier to u
 * SSPI of Lattice Nexus Devices are shared with JTAG pins. Disable JTAG via JTAGEN pin to activate SSPI mode.
 * SPI FLash devices might have different commands for erasing or writing. Consult the datasheet of your target SPI Flash.
 
+## Sample Terminal Run
+<img width="639" height="462" alt="image" src="https://github.com/user-attachments/assets/f6bbc967-3aa0-4fcb-8ee8-a84a8962c992" />
