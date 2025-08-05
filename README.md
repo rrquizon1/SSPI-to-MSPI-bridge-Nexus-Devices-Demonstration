@@ -1,6 +1,6 @@
 # SSPI to MSPI Bridge
 
-This is a demonstration of Lattice Nexus Devices' SSPI to MSPI bridge using Raspberry Pi. The Lattice Nexus SSPi to MSPI bridge is discussed in the ([Lattice Nexus sysCONFIG Document ](https://www.latticesemi.com/view_document?document_id=52790))
+This is a demonstration of Lattice Nexus Devices' SSPI to MSPI bridge using Raspberry Pi. The Lattice Nexus SSPI to MSPI bridge is discussed in the ([Lattice Nexus sysCONFIG Document ](https://www.latticesemi.com/view_document?document_id=52790))
 
 The SSPI to MSPI bridge is illustrated below for our sysCONFIG document:
 <img width="951" height="613" alt="image" src="https://github.com/user-attachments/assets/e4296707-f22a-4a28-98fc-3218f35b89f2" />
